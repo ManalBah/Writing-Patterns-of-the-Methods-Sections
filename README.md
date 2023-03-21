@@ -5,13 +5,10 @@ Our aim is to look for patterns of functional discourse elements in how methods 
 
 
 An outline of our approach is as follows:
-1. Collect a corpus of literature featuring microarray data analysis
-The full code can be found [here](https://github.com/ManalBah/Fetch-Data-From-PMC)
+1. [Collect a corpus of literature featuring microarray data analysis](https://github.com/ManalBah/Fetch-Data-From-PMC)
 
 2. Automatically annotate these papers with functional discourse tags 
 
-3. Extract the Methods section from these annotated papers
-The full code can be found [here](https://github.com/ManalBah/Fetch-Data-From-PMC)
+3. [Extract the Methods section from these annotated papers](https://github.com/ManalBah/Fetch-Data-From-PMC)
 
-4. Analyse the discourse annotations for the patterns of discourse.
-The full code can be found [here](https://github.com/ManalBah/DiscourseAnalysis)
+4. [Analyse the discourse annotations for the patterns of discourse](https://github.com/ManalBah/DiscourseAnalysis)
